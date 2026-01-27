@@ -1,3 +1,3 @@
 # Full stack web development course exercises.
 
-The code is part of an exercise from the course available at https://fullstackopen.com/
+The code is part of an exercise from the course at https://fullstackopen.com/
