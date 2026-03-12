@@ -31,7 +31,7 @@ The Full Stack Open course introduces modern JavaScript-based web development. I
 ### Part 1 – Introduction to React
 > Getting started with React: components, props, state, and event handling.
 
-- **courseinfomation** – Displays course info using React components
+- **courseinfomation** – Displays course info using React components *(note: folder name has a typo in the original project)*
 - **anecdotes** – Random anecdote viewer with voting functionality
 - **unicafe** – A feedback collection app using React state
 
